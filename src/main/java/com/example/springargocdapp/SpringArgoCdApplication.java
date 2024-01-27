@@ -17,7 +17,7 @@ public class SpringArgoCdApplication {
     @Bean
     ApplicationRunner runner(){
         return args -> {
-              log.info("Application Version: V1");
+              log.info("Application Version: V2");
         };
     }
 
