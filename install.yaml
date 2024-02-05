@@ -20830,7 +20830,7 @@ metadata:
     app.kubernetes.io/part-of: argocd
   name: argocd-notifications-secret
 stringData:
-  slack-token: "xoxb-6587681631890-6584999931397-YRxKmG72Down7qxCO9w4ZWXj"
+  slack-token: "<YOUR_SLACK_TOKEN>"
 type: Opaque
 ---
 apiVersion: v1
