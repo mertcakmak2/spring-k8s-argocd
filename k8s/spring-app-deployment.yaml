@@ -27,7 +27,7 @@ spec:
     spec:
       containers:
         - name: spring-argocd-app
-          image: mertcakmak2/spring-argocd-app:c8c50875
+          image: mertcakmak2/spring-argocd-app:731f37f0
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
